@@ -42,5 +42,5 @@ Neste checkpoint individual, foi desenvolvida uma página web inspirada no tema 
 
 ## 🌐 Links Importantes
 
-- 🔗 [Repositório no GitHub]()
-- 🌍 [Site no GitHub Pages]()
+- 🔗 [Repositório no GitHub](https://github.com/dudus70/checkpoint03-flexbox.git)
+- 🌍 [Site no GitHub Pages](https://dudus70.github.io/checkpoint03-flexbox/)
